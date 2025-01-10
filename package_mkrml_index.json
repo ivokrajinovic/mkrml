@@ -16,8 +16,8 @@
           "category": "Contributed",
           "url": "https://github.com/ivokrajinovic/mkrml/raw/main/hardware/mkrml/1.0.0/mkrml-1.0.0.zip",
           "archiveFileName": "mkrml-1.0.0.zip",
-          "checksum": "SHA-256:da4080de10553afd5d2ba5d459bf399d56d4bfffc752fd97cb5994e957c590f7",
-          "size": "1594952",
+          "checksum": "SHA-256:222fba5a76c06840c5be35366e88b3c996499476e655e0ab455fae2f9c40fca1",
+          "size": "1595029",
           "boards": [
             {
               "name": "MKRML"
@@ -25,7 +25,7 @@
           ],
           "toolsDependencies": [
             {
-              "packager": "adafruit",
+              "packager": "Micro-Link",
               "name": "arm-none-eabi-gcc",
               "version": "9-2019q4"
             },
@@ -35,7 +35,7 @@
               "version": "1.7.0-arduino3"
             },
             {
-              "packager": "adafruit",
+              "packager": "Micro-Link",
               "name": "bossac",
               "version": "1.8.0-48-gb176eee"
             },
@@ -45,12 +45,12 @@
               "version": "0.11.0-arduino2"
             },
             {
-              "packager": "adafruit",
+              "packager": "Micro-Link",
               "name": "CMSIS",
               "version": "5.7.0"
             },
             {
-              "packager": "adafruit",
+              "packager": "Micro-Link",
               "name": "CMSIS-Atmel",
               "version": "1.2.2"
             },
